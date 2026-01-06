@@ -1,2 +1,2 @@
-# CS-221_COD
+# CS-221 (LABS)
 Computer Organization &amp; Design (Spring 2026)
